@@ -16,6 +16,9 @@ There is a wealth of knowledge in the Discussions, Pull Requests and Issues tabs
 
 You can view the [3d model online](https://a360.co/3VdXkRY) to see how to assemble the printer. Everything is 3D printable, however He got the extruder mount made out of metal by JLCPCB as there is quite a bit of torque on that part. He also included the gerber files to make your own PCB buildplate, but a sheet of MDF wood would also work.
 
+### CAD Files
+Huge thanks to Bolado in [Discussions](https://github.com/jyjblrd/Core-R-Theta-4-Axis-Printer/discussions/49/) from the original repository for providing a onshape file.  I was able to use that & convert it to Fusion360 file. I modified it to be usable with the materials we had. Bills of Material will be included along with Amazon links.
+
 Bibtex Citation:
 ```
 @software{Bird_Core_R-Theta_Printer,
