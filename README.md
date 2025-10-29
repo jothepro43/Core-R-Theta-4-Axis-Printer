@@ -19,6 +19,9 @@ You can view the [3d model online](https://a360.co/3VdXkRY) to see how to assemb
 ### CAD Files
 Huge thanks to Bolado in [Discussions](https://github.com/jyjblrd/Core-R-Theta-4-Axis-Printer/discussions/49/) from the original repository for providing a onshape file.  I was able to use that & convert it to Fusion360 file. I modified it to be usable with the materials we had. Bills of Material will be included along with Amazon links.
 
+Due to Fusion360's large size and it reaching Github's upload limits, I've put the rest of the files in this google drive folder [here](https://drive.google.com/drive/folders/1hgXQBZUpwzEBBKnLD_uq1bWmzUTH4E2e?usp=sharing)
+
+
 Bibtex Citation:
 ```
 @software{Bird_Core_R-Theta_Printer,
